@@ -6,7 +6,7 @@ import postsData from './../../../posts.json'
 const IdeasPage = () => {
     const posts = []
 
-    for (key, value of postsData) {
+    for (let key, value of postsData) {
         posts[key] = value
     }
 
