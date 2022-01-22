@@ -1,0 +1,10 @@
+.Article{
+    background: #fff;
+    border-radius: 1rem;
+    width: 260px;
+    height: auto;
+    position: relative;
+    margin-bottom: 30px;
+    border: 1px solid #aaa;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+.Title{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 5px;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+}

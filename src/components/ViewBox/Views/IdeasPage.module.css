@@ -1,0 +1,7 @@
+.IdeasPage{
+    background: rgb(251, 251, 251);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+}

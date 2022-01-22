@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Google",
+        "href": "mailto:aleshapavlov9@gmail.com?subject=Заказ",
+        "src": "./logo/Google.png"
+    },
+    {
+        "text": "Viber",
+        "href": "viber://chat?number=+380999768326",
+        "src": "./logo/viber.png"
+    }
+]
