@@ -5,8 +5,13 @@
         "src": "./logo/Google.png"
     },
     {
-        "text": "Not Viber",
-        "href": "viber://mobile?number=+380999768226",
-        "src": "./logo/viber.png"
+        "text": "Telegram",
+        "href": "https://t.me/aleshapavlov14",
+        "src": "./logo/telegram.png"
+    },
+    {
+        "text": "Instagram",
+        "href": "https://instagram.com/alio.sha13",
+        "src": "./logo/instagram.jpeg"
     }
 ]
