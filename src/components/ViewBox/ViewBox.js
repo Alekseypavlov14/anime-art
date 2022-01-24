@@ -3,13 +3,15 @@ import IdeasPage from "./Views/IdeasPage"
 import styles from './ViewBox.module.css'
 import AboutPage from "./Views/AboutPage"
 import StateContext from "../../context"
+import CategoryPage from "./Views/Categories"
 
 const ViewBox = () => {
-    const {view, setView} = useContext(StateContext)
+    const {view} = useContext(StateContext)
 
     const views = [
         (<IdeasPage />),
-        (<AboutPage/>)
+        (<CategoryPage/>),
+        (<AboutPage/>),
     ]
 
     return (

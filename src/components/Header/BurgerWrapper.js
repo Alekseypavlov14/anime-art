@@ -7,6 +7,7 @@ const BurgerWrapper = (props) => {
 
     const Links = [
         'Ideas',
+        'Categories',
         'About'
     ]
     return (

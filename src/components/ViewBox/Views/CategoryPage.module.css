@@ -1,0 +1,17 @@
+.CategoryPage{
+    box-sizing: border-box;
+    width: 90%;
+    margin: 0px 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Container{
+    width: 90%;
+    margin: 0px 5%;
+}
+
+select{
+    margin-bottom: 20px;
+}

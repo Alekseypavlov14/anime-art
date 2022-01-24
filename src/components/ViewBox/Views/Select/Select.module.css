@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+.Select{
+    width: 260px;
+    height: 40px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.SelectActive{
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.Title{
+    font-size: 20px;
+    font-family: 'Roboto', 'sans-serif';
+    line-height: 20px;
+    margin-left: 15px;
+}
+
+.Button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 8px;
+    transform: rotateZ(90deg);
+    text-align: center;
+    line-height: 24px;
+    font-size: 26px;
+    color: black;
+}
+
+.Wrapper{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 100%;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Hide{
+    display: none;
+}
