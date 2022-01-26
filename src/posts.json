@@ -1,23 +1,44 @@
 [
     {
-        "title": "Title1. Red",
-        "src": "./images/red.jpeg",
-        "describes": "This red Card is Beautiful. Really Beautifyl",
-        "category": "anime",
+        "title": "Happy Bob",
+        "src": "./images/IMG_20220126_184206.jpg",
+        "describes": "This Bob will cheer up",
+        "category": "SpongeBob",
         "id": 0
     },
     {
-        "title": "Title2. Oranges",
-        "src": "./images/article-test.jpg",
-        "describes": "We can give you this orange",
-        "category": "geometry",
+        "title": "Wild Patrick",
+        "src": "./images/IMG_20220126_183942.jpg",
+        "describes": "Ohh... how funny it is!",
+        "category": "SpongeBob",
         "id": 1
     },
     {
-        "title": "Title3. Oranges",
-        "src": "./images/article-test.jpg",
-        "describes": "We can give you this orange",
-        "category": "anime",
+        "title": "Squidward",
+        "src": "./images/IMG_20220126_184128.jpg",
+        "describes": "Another Monday!!!",
+        "category": "SpongeBob",
         "id": 2
+    },
+    {
+        "title": "Plankton",
+        "src": "./images/IMG_20220126_184237.jpg",
+        "describes": "He knows something especial",
+        "category": "SpongeBob",
+        "id": 3
+    },
+    {
+        "title": "Silly Patrick",
+        "src": "./images/IMG_20220126_184149.jpg",
+        "describes": "Something went wrong",
+        "category": "SpongeBob",
+        "id": 4
+    },
+    {
+        "title": "Nike",
+        "src": "./images/IMG_20220126_190451.jpg",
+        "describes": "ON sport?",
+        "category": "Sport",
+        "id": 5
     }
 ]
